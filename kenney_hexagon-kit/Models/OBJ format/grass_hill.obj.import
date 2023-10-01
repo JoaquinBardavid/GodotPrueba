@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://teoindl2pcyd"
+path="res://.godot/imported/grass_hill.obj-6b9fb44a7571047c265b8045d123e3ef.mesh"
+
+[deps]
+
+files=["res://.godot/imported/grass_hill.obj-6b9fb44a7571047c265b8045d123e3ef.mesh"]
+
+source_file="res://kenney_hexagon-kit/Models/OBJ format/grass_hill.obj"
+dest_files=["res://.godot/imported/grass_hill.obj-6b9fb44a7571047c265b8045d123e3ef.mesh", "res://.godot/imported/grass_hill.obj-6b9fb44a7571047c265b8045d123e3ef.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

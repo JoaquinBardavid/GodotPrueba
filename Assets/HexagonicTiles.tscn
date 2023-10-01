@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://bagj7swm7p66q"]
+
+[ext_resource type="ArrayMesh" uid="uid://bhmylxmfh2bkv" path="res://kenney_hexagon-kit/Models/OBJ format/building_cabin.obj" id="1_wkcnf"]
+[ext_resource type="ArrayMesh" uid="uid://bueuqogd0eubt" path="res://kenney_hexagon-kit/Models/OBJ format/grass.obj" id="2_oua3o"]
+
+[node name="HexagonicTiles" type="Node3D"]
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = ExtResource("1_wkcnf")
+
+[node name="MeshInstance3D2" type="MeshInstance3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.5, 0, 0.86)
+mesh = ExtResource("2_oua3o")

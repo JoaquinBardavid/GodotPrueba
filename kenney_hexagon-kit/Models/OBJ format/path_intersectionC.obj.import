@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cw3s6r7g1td6p"
+path="res://.godot/imported/path_intersectionC.obj-3a861953c0b6f85589472ce4dea0f8ee.mesh"
+
+[deps]
+
+files=["res://.godot/imported/path_intersectionC.obj-3a861953c0b6f85589472ce4dea0f8ee.mesh"]
+
+source_file="res://kenney_hexagon-kit/Models/OBJ format/path_intersectionC.obj"
+dest_files=["res://.godot/imported/path_intersectionC.obj-3a861953c0b6f85589472ce4dea0f8ee.mesh", "res://.godot/imported/path_intersectionC.obj-3a861953c0b6f85589472ce4dea0f8ee.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

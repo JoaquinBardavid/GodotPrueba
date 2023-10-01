@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cg4wfo4ogwgvm"
+path="res://.godot/imported/river_corner.obj-81fc82bf9d10892098ff1c57a849af2e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/river_corner.obj-81fc82bf9d10892098ff1c57a849af2e.mesh"]
+
+source_file="res://kenney_hexagon-kit/Models/OBJ format/river_corner.obj"
+dest_files=["res://.godot/imported/river_corner.obj-81fc82bf9d10892098ff1c57a849af2e.mesh", "res://.godot/imported/river_corner.obj-81fc82bf9d10892098ff1c57a849af2e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

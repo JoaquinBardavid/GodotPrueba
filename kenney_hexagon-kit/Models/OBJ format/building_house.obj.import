@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c2as4in8fphi3"
+path="res://.godot/imported/building_house.obj-13342d40280e6346f328cd7c6b2760b4.mesh"
+
+[deps]
+
+files=["res://.godot/imported/building_house.obj-13342d40280e6346f328cd7c6b2760b4.mesh"]
+
+source_file="res://kenney_hexagon-kit/Models/OBJ format/building_house.obj"
+dest_files=["res://.godot/imported/building_house.obj-13342d40280e6346f328cd7c6b2760b4.mesh", "res://.godot/imported/building_house.obj-13342d40280e6346f328cd7c6b2760b4.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
